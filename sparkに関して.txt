@@ -1,0 +1,11 @@
+Sparkとは
+→複数のノードでデータを読み込んでデータを処理する分散コンピューティングエンジン
+→大きなデータを処理するときには一台で処理を行うよりも効率がよく物事を処理する事ができるようになる。
+
+分散処理に関して
+→複数のノードに分けて処理を行うこと。
+
+
+pyspark
+→https://blog.serverworks.co.jp/introducing-pyspark-1
+→https://tech.jxpress.net/entry/pyspark-nyumon
